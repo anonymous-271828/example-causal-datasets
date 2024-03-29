@@ -2,7 +2,7 @@
 addtemporal
 
 1  nat-count race sex
-2  Income age cap-gain cap-loss educ hrs-wk mar-stat occup relat workclass educ-num fnlwgt
+2  Income* age cap-gain cap-loss educ hrs-wk mar-stat occup relat workclass educ-num fnlwgt
 
 forbiddirect
 

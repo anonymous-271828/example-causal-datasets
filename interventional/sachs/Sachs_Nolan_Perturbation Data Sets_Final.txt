@@ -1,0 +1,29 @@
+Flow Cytometry Data Sets from manuscript of
+Sachs, Perez, Pe’er, Lauffenburger, and Nolan
+
+Data files are stored as Excel Spreadsheets with columns as indicated in the headers.  The stimulations used are as indicated in the Materials and Methods.
+
+
+For the main result, the following conditions were used:
+
+Stimulation:					Original File		Our File                        .
+1. CD3, CD28					cd3cd28.xls 		intervention.1.cd3cd28.continuous.csv 
+2. CD3, CD28, ICAM-2				cd3cd28icam2.xls	intervention.2.cd3cd28icam2.continuous.csv
+3. CD3, CD28, akt-inhibitor			cd3cd28+aktinhib.xls	intervention.3.cd3cd28+aktinhib.continuous.csv
+4. CD3, CD28, G0076				cd3cd28+g0076.xls	intervention.4.cd3cd28+g0076.continuous.csv
+5. CD3, CD28, Psitectorigenin			cd3cd28+psitect.xls	intervention.5.cd3cd28+psitect.continuous.csv
+6. CD3, CD28, U0126				cd3cd28+u0126.xls	intervention.6.cd3cd28+u0126.continuous.csv
+7. CD3, CD28, LY294002				cd3cd28+ly.xls		intervention.7.cd3cd28+ly.continuous.csv
+8. PMA						pma.xls			intervention.8.pma.continuous.csv
+9. Beta2camp					b2camp.xls		intervention.9.b2camp.continuous.csv
+
+
+
+For the simulated western blots, the following were ALSO used, in addition to the 9 above:
+
+Stimulation:					Original File			Our File   
+10. CD3, CD28, ICAM-2, akt-inhib	     	cd3cd28icam2+aktinhib.xls	intervention.10.cd3cd28icam2+aktinhib.continuous.csv
+11. CD3, CD28, ICAM-2, G0076			cd3cd28icam2+g0076.xls		intervention.11.cd3cd28icam2+g0076.continuous.csv
+12. CD3, CD28, ICAM-2, Psitectorigenin 		cd3cd28icam2+psit.xls		intervention.12.cd3cd28icam2+psit.csv
+13. CD3, CD28, ICAM-2, U0126			cd3cd28icam2+u0126.xls		intervention.13.cd3cd28icam2+u0126.continuous.csv
+14. CD3, CD28, ICAM-2, LY294002			cd3cd28icam2+ly.xls		intervention.14.cd3cd28icam2+ly.continuous.csv

@@ -1,1 +1,0 @@
-https://archive.ics.uci.edu/ml/datasets/South+German+Credit+%28UPDATE%29

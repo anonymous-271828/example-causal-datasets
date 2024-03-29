@@ -1,4 +1,4 @@
-age	gender	height	weight	steps	heart_rate	calories	distance	entropy_heart	entropy_steps	resting_heart	corr_heart_steps	norm_heart	sd_norm_heart	steps_times_distance	device	activity
+age	gender	height	weight	steps	heart_rate	calories	distance	entropy_heart	entropy_steps	resting_heart	corr_heart_steps	norm_heart	sd_norm_heart	steps_times_distance	device	activity*
 20.0	1.0	168.0	65.4	10.7714	78.5313	0.3445	0.0083	6.2216	6.1163	59.0	1.0	19.5313	1.0	0.0897	0.0	0.0
 20.0	1.0	168.0	65.4	11.4753	78.4534	3.2876	0.0089	6.2216	6.1163	59.0	1.0	19.4534	1.0	0.1021	0.0	0.0
 20.0	1.0	168.0	65.4	12.1792	78.5408	9.484	0.0095	6.2216	6.1163	59.0	1.0	19.5408	1.0	0.1153	0.0	0.0

@@ -1,4 +1,4 @@
-Elevation	Aspect	Slope	Horiz-hydr	Vert-hydr	Horiz-road	Shade9	Shade12	Shade3	Horiz-Fire	Type
+Elevation	Aspect	Slope	Horiz-hydr	Vert-hydr	Horiz-road	Shade9	Shade12	Shade3	Horiz-Fire	Type*
 3336	16	24	162	66	3828	192	184	120	1824	1
 3064	53	14	95	0	4230	227	208	111	2644	2
 3146	150	9	342	14	6301	233	240	138	2016	2

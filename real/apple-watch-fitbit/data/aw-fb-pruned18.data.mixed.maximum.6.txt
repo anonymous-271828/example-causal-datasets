@@ -1,4 +1,4 @@
-age	gender	height	weight	steps	heart_rate	calories	distance	entropy_heart	entropy_setps	resting_heart	corr_heart_steps	norm_heart	intensity_karvonen	sd_norm_heart	steps_times_distance	device	activity
+age	gender	height	weight	steps	heart_rate	calories	distance	entropy_heart	entropy_setps	resting_heart	corr_heart_steps	norm_heart	intensity_karvonen	sd_norm_heart	steps_times_distance	device	activity*
 20	1	168	65.4	10.7714	78.5313	0.3445	0.0083	6.2216	6.1163	59	1	19.5313	0.1385	1	0.0897	apple watch	Lying
 20	1	168	65.4	11.4753	78.4534	3.2876	0.0089	6.2216	6.1163	59	1	19.4534	0.138	1	0.1021	apple watch	Lying
 20	1	168	65.4	12.1792	78.5408	9.484	0.0095	6.2216	6.1163	59	1	19.5408	0.1386	1	0.1153	apple watch	Lying

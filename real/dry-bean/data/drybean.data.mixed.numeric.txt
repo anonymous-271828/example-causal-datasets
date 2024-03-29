@@ -1,4 +1,4 @@
-Area	Perimeter	MajorAxisLength	MinorAxisLength	AspectRation	Eccentricity	ConvexArea	EquivDiameter	Extent	Solidity	roundness	Compactness	ShapeFactor1	ShapeFactor2	ShapeFactor3	ShapeFactor4	Class
+Area	Perimeter	MajorAxisLength	MinorAxisLength	AspectRation	Eccentricity	ConvexArea	EquivDiameter	Extent	Solidity	roundness	Compactness	ShapeFactor1	ShapeFactor2	ShapeFactor3	ShapeFactor4	Class*
 28395	610.291	208.1781	173.8887	1.1972	0.5498	28715	190.1411	0.7639	0.9889	0.958	0.9134	0.0073	0.0031	0.8342	0.9987	5
 28734	638.018	200.5248	182.7344	1.0974	0.4118	29172	191.2728	0.784	0.985	0.887	0.9539	0.007	0.0036	0.9099	0.9984	5
 29380	624.11	212.8261	175.9311	1.2097	0.5627	29690	193.4109	0.7781	0.9896	0.9478	0.9088	0.0072	0.003	0.8259	0.9991	5

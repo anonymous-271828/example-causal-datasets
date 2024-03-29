@@ -1,4 +1,4 @@
-ip_mean	ip_sd	ip_kurt	ip_skew	snr_mean	snr_sd	snr_kurt	snr_skew	pulsar
+ip_mean	ip_sd	ip_kurt	ip_skew	snr_mean	snr_sd	snr_kurt	snr_skew	pulsar*
 140.5625	55.6838	-0.2346	-0.6996	3.1998	19.1104	7.9755	74.2422	0
 102.5078	58.8824	0.4653	-0.5151	1.6773	14.8601	10.5765	127.3936	0
 103.0156	39.3416	0.3233	1.0512	3.1212	21.7447	7.7358	63.1719	0

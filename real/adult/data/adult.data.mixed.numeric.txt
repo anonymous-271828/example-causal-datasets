@@ -1,4 +1,4 @@
-age	workclass	fnlwgt	educ	educ-num	mar-stat	occup	relat	race	sex	cap-gain	cap-loss	hrs-wk	nat-count	Income
+age	workclass	fnlwgt	educ	educ-num	mar-stat	occup	relat	race	sex	cap-gain	cap-loss	hrs-wk	nat-count	Income*
 39	6	77516	9	13	4	0	1	4	1	2174	0	40	38	0
 50	5	83311	9	13	2	3	0	4	1	0	0	13	38	0
 38	3	215646	11	9	0	5	1	4	1	0	0	40	38	0

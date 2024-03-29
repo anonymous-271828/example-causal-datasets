@@ -3,7 +3,7 @@ addtemporal
 
 1  Aspect Elevation Slope
 2  Horiz-Fire Horiz-hydr Horiz-road  Vert-hydr
-3  Shade12 Shade3 Shade9 Type
+3  Shade12 Shade3 Shade9 Type*
 
 forbiddirect
 

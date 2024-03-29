@@ -5,7 +5,7 @@ addtemporal
 2  cylinders
 3  displacement
 4  horsepower
-5  acceleration mpg
+5  acceleration mpg*
 
 forbiddirect
 
